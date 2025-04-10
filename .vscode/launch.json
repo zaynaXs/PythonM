@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "Run app.py",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/app.py",
+      "console": "integratedTerminal",
+      "python": "C:/Users/ZAINAB/.virtualenvs/sqli-xT98twGK/Scripts/python.exe"
+    },
+    {
+      "name": "Python Debugger: Python File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}"
+    },
+    {
+      "name": "Python Debugger: Python File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}"
+    }
+  ]
+}
